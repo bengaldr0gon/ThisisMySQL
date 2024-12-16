@@ -1,2 +1,2 @@
-* linguist-vendored
-*.html linguist-detectable=true
+MySQL_Theme/** linguist-documentation=false
+MySQL_Theme/** linguist-vendored=false
