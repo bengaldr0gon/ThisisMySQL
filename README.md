@@ -8,3 +8,4 @@ https://bengaldr0gon.github.io/ThisisMySQL/관계대수(CH04)<br>
 https://bengaldr0gon.github.io/ThisisMySQL/SQL기초(CH05)<br>
 https://bengaldr0gon.github.io/ThisisMySQL/SQL활용(CH06)<br>
 https://bengaldr0gon.github.io/ThisisMySQL/SQL응용(CH07)<br>
+https://bengaldr0gon.github.io/ThisisMySQL/정규화(CH08)<br>
